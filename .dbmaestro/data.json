@@ -20,7 +20,11 @@
           }
         ],
         "SourceControlPathType": 0,
-        "RepositoryDetails": null,
+        "RepositoryDetails": {
+          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
+          "RemoteRepositoryDirectory": "https://github.com/itamarep/DBmaestro.git",
+          "BranchName": "master"
+        },
         "Configuration": {
           "BuildMigrationScriptAutomatically": true
         }
@@ -28,12 +32,20 @@
       "UserData": [
         {
           "UserName": "itamarep",
+          "RepositoryCredentials": {
+            "UserName": "itamarep",
+            "Password": "ZhOg8txMfe+9NcIrmJ+CiQ=="
+          },
           "ConnectionStrings": {
             "dev\\dev_env_1\\repo1": "Data Source=localhost;Initial Catalog=repo1;Integrated Security=False;User ID=sa;Password=Admin12#"
           }
         },
         {
           "UserName": "itamaredbmaestro",
+          "RepositoryCredentials": {
+            "UserName": "itamaredbmaestro",
+            "Password": "ZhOg8txMfe+9NcIrmJ+CiQ=="
+          },
           "ConnectionStrings": {
             "dev\\dev_env_1\\repo1": "Data Source=localhost;Initial Catalog=repo2;Integrated Security=False;User ID=sa;Password=Admin12#"
           }
