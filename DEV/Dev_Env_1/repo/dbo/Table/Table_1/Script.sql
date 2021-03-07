@@ -3,7 +3,4 @@ CREATE TABLE [dbo].[Table_1] (
     [c2] NCHAR (10) NULL,
     [c3] NCHAR (10) NULL
 );
-
-
 GO
-
