@@ -39,6 +39,14 @@
           "ConnectionStrings": {
             "dev\\dev_env_1\\db": "Data Source=localhost;Initial Catalog=repo1;Integrated Security=False;User ID=sa;Password=Admin12#"
           }
+        },
+        {
+          "UserName": "itamaredbmaestro",
+          "RepositoryCredentials": {
+            "UserName": "itamaredbmaestro",
+            "Password": "ZhOg8txMfe+9NcIrmJ+CiQ=="
+          },
+          "ConnectionStrings": {}
         }
       ]
     }
