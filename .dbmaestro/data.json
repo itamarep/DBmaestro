@@ -46,7 +46,9 @@
             "UserName": "itamaredbmaestro",
             "Password": "ZhOg8txMfe+9NcIrmJ+CiQ=="
           },
-          "ConnectionStrings": {}
+          "ConnectionStrings": {
+            "dev\\dev_env_1\\db": "Data Source=localhost;Initial Catalog=cs2;Integrated Security=False;User ID=sa;Password=Admin12#"
+          }
         }
       ]
     }
