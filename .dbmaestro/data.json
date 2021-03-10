@@ -4,7 +4,21 @@
       "GlobalData": {
         "ProjectName": "DBmaestro",
         "DBTypeName": "SQL Server",
-        "Environments": null,
+        "Environments": [
+          {
+            "EnvironmentName": "Dev_Env_1",
+            "EnvironmentType": "DEV",
+            "Databases": [
+              {
+                "ProjectName": "DBmaestro",
+                "EnvType": "DEV",
+                "EnvironmentName": "Dev_Env_1",
+                "DatabaseAliasName": "DB",
+                "DBTypeName": "SQL Server"
+              }
+            ]
+          }
+        ],
         "SourceControlPathType": 0,
         "RepositoryDetails": {
           "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
@@ -22,7 +36,9 @@
             "UserName": "itamarep",
             "Password": "ZhOg8txMfe+9NcIrmJ+CiQ=="
           },
-          "ConnectionStrings": {}
+          "ConnectionStrings": {
+            "dev\\dev_env_1\\db": "Data Source=localhost;Initial Catalog=cs1;Integrated Security=False;User ID=sa;Password=Admin12#"
+          }
         }
       ]
     }
