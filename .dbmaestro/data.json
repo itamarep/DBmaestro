@@ -1,0 +1,30 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectName": "DBmaestro",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "RepositoryDetails": {
+          "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
+          "RemoteRepositoryDirectory": "https://github.com/itamarep/DBmaestro.git",
+          "BranchName": "master"
+        },
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true
+        }
+      },
+      "UserData": [
+        {
+          "UserName": "itamarep",
+          "RepositoryCredentials": {
+            "UserName": "itamarep",
+            "Password": "ZhOg8txMfe+9NcIrmJ+CiQ=="
+          },
+          "ConnectionStrings": {}
+        }
+      ]
+    }
+  ]
+}
