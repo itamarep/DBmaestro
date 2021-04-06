@@ -1,8 +1,6 @@
-
-
-CREATE VIEW [dbo].[View_1]
+CREATE VIEW dbo.View_1
 AS
-SELECT        dbo.Table_1.c1, dbo.Table_1.c2, dbo.Table_2.c1 AS Expr1, dbo.Table_2.c2 AS Expr2
+SELECT        dbo.Table_1.c1, dbo.Table_1.c2, dbo.Table_2.c1 AS Expr1, dbo.Table_2.c2 AS Expr2, dbo.Table_2.c4
 FROM            dbo.Table_1 INNER JOIN
                          dbo.Table_2 ON dbo.Table_1.c1 = dbo.Table_2.c3
 GO
@@ -96,7 +94,7 @@ Begin DesignProperties =
                Right = 416
             End
             DisplayFlags = 280
-            TopColumn = 0
+            TopColumn = 1
          End
       End
    End
