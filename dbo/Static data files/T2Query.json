@@ -1,0 +1,5 @@
+{
+  "schema": "dbo",
+  "name": "T2Query",
+  "type": "TableValuedFunction"
+}

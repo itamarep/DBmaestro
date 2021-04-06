@@ -1,0 +1,5 @@
+{
+  "schema": "dbo",
+  "name": "V1Query",
+  "type": "TableValuedFunction"
+}
