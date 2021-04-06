@@ -6,7 +6,7 @@ AS
 RETURN 
 (
 	-- Add the SELECT statement with parameter references here
-	SELECT * from dbo.Table_2
+	SELECT c2 from dbo.Table_2
 )
 GO
 
