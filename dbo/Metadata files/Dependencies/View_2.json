@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Table_2",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "View_2",
+    "type": "View"
+  }
+]
