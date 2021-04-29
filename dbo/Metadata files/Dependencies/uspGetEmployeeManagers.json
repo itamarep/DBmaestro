@@ -1,0 +1,42 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BusinessEntityID",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "FirstName",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "LastName",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "OrganizationNode",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "RecursionLevel",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspGetEmployeeManagers",
+    "type": "Procedure"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  }
+]

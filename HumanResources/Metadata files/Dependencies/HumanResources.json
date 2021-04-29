@@ -1,0 +1,147 @@
+[
+  {
+    "schema": "AW2016FullTextCatalog",
+    "name": "AW2016FullTextCatalog",
+    "type": "FullTextCatalog"
+  },
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspLogError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Department",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "EmployeeDepartmentHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "EmployeePayHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "HRResumeSchemaCollection",
+    "type": "XmlSchemaCollection"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "HumanResources",
+    "type": "Schema"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "JobCandidate",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Shift",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "uspUpdateEmployeeHireInfo",
+    "type": "Procedure"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "uspUpdateEmployeeLogin",
+    "type": "Procedure"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "uspUpdateEmployeePersonalInfo",
+    "type": "Procedure"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "vEmployee",
+    "type": "View"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "vEmployeeDepartment",
+    "type": "View"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "vEmployeeDepartmentHistory",
+    "type": "View"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "vJobCandidate",
+    "type": "View"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "vJobCandidateEducation",
+    "type": "View"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "vJobCandidateEmployment",
+    "type": "View"
+  },
+  {
+    "schema": "Person",
+    "name": "Address",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "CountryRegion",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "EmailAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PersonPhone",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PhoneNumberType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "StateProvince",
+    "type": "Table"
+  }
+]

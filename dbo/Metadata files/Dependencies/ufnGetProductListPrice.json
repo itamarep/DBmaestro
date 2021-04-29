@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "ufnGetProductListPrice",
+    "type": "ScalarFunction"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductListPriceHistory",
+    "type": "Table"
+  }
+]

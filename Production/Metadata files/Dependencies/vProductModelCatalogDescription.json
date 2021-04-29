@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "Production",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductModel",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "vProductModelCatalogDescription",
+    "type": "View"
+  }
+]

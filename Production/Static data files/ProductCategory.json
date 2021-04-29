@@ -1,0 +1,5 @@
+{
+  "schema": "Production",
+  "name": "ProductCategory",
+  "type": "Table"
+}

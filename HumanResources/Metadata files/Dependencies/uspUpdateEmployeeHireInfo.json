@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspLogError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "EmployeePayHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "HumanResources",
+    "type": "Schema"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "uspUpdateEmployeeHireInfo",
+    "type": "Procedure"
+  }
+]

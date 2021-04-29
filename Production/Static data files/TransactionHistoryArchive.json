@@ -1,0 +1,5 @@
+{
+  "schema": "Production",
+  "name": "TransactionHistoryArchive",
+  "type": "Table"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "Production",
+    "name": "ManuInstructionsSchemaCollection",
+    "type": "XmlSchemaCollection"
+  },
+  {
+    "schema": "Production",
+    "name": "Production",
+    "type": "Schema"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPerson",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritoryHistory",
+    "type": "Table"
+  }
+]

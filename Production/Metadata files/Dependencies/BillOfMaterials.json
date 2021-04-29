@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Production",
+    "name": "BillOfMaterials",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "UnitMeasure",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "schema": "HumanResources",
+  "name": "vEmployeeDepartment",
+  "type": "View"
+}

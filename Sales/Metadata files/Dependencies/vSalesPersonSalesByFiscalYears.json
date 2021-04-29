@@ -1,0 +1,72 @@
+[
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "2002",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "2003",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "2004",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "FullName",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "JobTitle",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesOrderHeader",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPerson",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPersonID",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "vSalesPersonSalesByFiscalYears",
+    "type": "View"
+  }
+]

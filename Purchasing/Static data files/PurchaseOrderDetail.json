@@ -1,0 +1,5 @@
+{
+  "schema": "Purchasing",
+  "name": "PurchaseOrderDetail",
+  "type": "Table"
+}

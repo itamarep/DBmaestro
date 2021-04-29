@@ -1,0 +1,5 @@
+{
+  "schema": "Sales",
+  "name": "vSalesPerson",
+  "type": "View"
+}

@@ -1,0 +1,5 @@
+{
+  "schema": "ddlDatabaseTriggerLog",
+  "name": "ddlDatabaseTriggerLog",
+  "type": "DatabaseDdlTrigger"
+}

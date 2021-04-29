@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "ufnGetStock",
+    "type": "ScalarFunction"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductInventory",
+    "type": "Table"
+  }
+]

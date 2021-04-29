@@ -1,0 +1,42 @@
+[
+  {
+    "schema": "dbo",
+    "name": "ufnGetContactInformation",
+    "type": "TableValuedFunction"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityContact",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "ContactType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Vendor",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Customer",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Store",
+    "type": "Table"
+  }
+]
