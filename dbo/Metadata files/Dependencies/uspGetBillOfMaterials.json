@@ -1,0 +1,57 @@
+[
+  {
+    "schema": "dbo",
+    "name": "BOMLevel",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "ComponentDesc",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "ComponentID",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "ListPrice",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "PerAssemblyQty",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "ProductAssemblyID",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "RecursionLevel",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "StandardCost",
+    "type": "Column"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspGetBillOfMaterials",
+    "type": "Procedure"
+  },
+  {
+    "schema": "Production",
+    "name": "BillOfMaterials",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  }
+]

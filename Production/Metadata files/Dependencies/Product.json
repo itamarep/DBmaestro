@@ -1,0 +1,37 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductModel",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductSubcategory",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "UnitMeasure",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "Person",
+    "name": "AddressType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Schema"
+  }
+]

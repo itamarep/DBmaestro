@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Person",
+    "name": "CountryRegion",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Schema"
+  },
+  {
+    "schema": "Person",
+    "name": "StateProvince",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "vStateProvinceCountryRegion",
+    "type": "View"
+  }
+]

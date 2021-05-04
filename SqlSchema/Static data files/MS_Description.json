@@ -1,0 +1,5 @@
+{
+  "schema": "SqlSchema",
+  "name": "MS_Description",
+  "type": "ExtendedProperty"
+}

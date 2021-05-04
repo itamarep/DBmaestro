@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "HumanResources",
+    "name": "HRResumeSchemaCollection",
+    "type": "XmlSchemaCollection"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "HumanResources",
+    "type": "Schema"
+  }
+]

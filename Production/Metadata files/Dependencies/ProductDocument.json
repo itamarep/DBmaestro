@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Production",
+    "name": "Document",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "ProductDocument",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Production",
+    "type": "Schema"
+  }
+]

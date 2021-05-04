@@ -1,0 +1,5 @@
+{
+  "schema": "dbo",
+  "name": "ufnGetSalesOrderStatusText",
+  "type": "ScalarFunction"
+}

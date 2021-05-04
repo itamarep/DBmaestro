@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "Person",
+    "name": "IndividualSurveySchemaCollection",
+    "type": "XmlSchemaCollection"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Schema"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Purchasing",
+    "type": "Schema"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "ShipMethod",
+    "type": "Table"
+  }
+]

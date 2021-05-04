@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SpecialOffer",
+    "type": "Table"
+  }
+]

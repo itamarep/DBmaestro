@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "Sales",
+    "name": "CreditCard",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  }
+]

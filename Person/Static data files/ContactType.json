@@ -1,0 +1,5 @@
+{
+  "schema": "Person",
+  "name": "ContactType",
+  "type": "Table"
+}

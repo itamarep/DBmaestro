@@ -1,0 +1,42 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AccountNumber",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspLogError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspPrintError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntity",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Purchasing",
+    "type": "Schema"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Vendor",
+    "type": "Table"
+  }
+]

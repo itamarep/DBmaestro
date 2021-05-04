@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPerson",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPersonQuotaHistory",
+    "type": "Table"
+  }
+]

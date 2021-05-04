@@ -1,0 +1,5 @@
+{
+  "schema": "HumanResources",
+  "name": "HRResumeSchemaCollection",
+  "type": "XmlSchemaCollection"
+}

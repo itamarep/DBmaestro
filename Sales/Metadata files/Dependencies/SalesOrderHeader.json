@@ -1,0 +1,82 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AccountNumber",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "OrderNumber",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "ufnGetAccountingEndDate",
+    "type": "ScalarFunction"
+  },
+  {
+    "schema": "dbo",
+    "name": "ufnGetAccountingStartDate",
+    "type": "ScalarFunction"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspLogError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspPrintError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "Person",
+    "name": "Address",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "ShipMethod",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "CreditCard",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "CurrencyRate",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Customer",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesOrderHeader",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPerson",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Table"
+  }
+]

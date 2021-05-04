@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Production",
+    "name": "Location",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "WorkOrder",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "WorkOrderRouting",
+    "type": "Table"
+  }
+]
