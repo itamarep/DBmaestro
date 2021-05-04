@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "CreditCard",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "PersonCreditCard",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "schema": "AW2016FullTextCatalog",
+    "name": "AW2016FullTextCatalog",
+    "type": "FullTextCatalog"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Document",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Production",
+    "type": "Schema"
+  }
+]

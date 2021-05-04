@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "DatabaseLog",
+    "type": "Table"
+  },
+  {
+    "schema": "ddlDatabaseTriggerLog",
+    "name": "ddlDatabaseTriggerLog",
+    "type": "DatabaseDdlTrigger"
+  }
+]

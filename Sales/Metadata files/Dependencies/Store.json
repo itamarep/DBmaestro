@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntity",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPerson",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Store",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "StoreSurveySchemaCollection",
+    "type": "XmlSchemaCollection"
+  }
+]

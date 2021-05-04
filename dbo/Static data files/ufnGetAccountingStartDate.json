@@ -1,0 +1,5 @@
+{
+  "schema": "dbo",
+  "name": "ufnGetAccountingStartDate",
+  "type": "ScalarFunction"
+}

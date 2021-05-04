@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "dbo",
+    "name": "ErrorLog",
+    "type": "Table"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspLogError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspPrintError",
+    "type": "Procedure"
+  }
+]

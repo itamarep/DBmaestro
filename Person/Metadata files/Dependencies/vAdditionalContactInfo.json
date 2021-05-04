@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Schema"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "vAdditionalContactInfo",
+    "type": "View"
+  }
+]

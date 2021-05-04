@@ -1,0 +1,5 @@
+{
+  "schema": "Production",
+  "name": "Product",
+  "type": "Table"
+}

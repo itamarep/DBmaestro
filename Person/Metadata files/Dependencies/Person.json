@@ -1,0 +1,37 @@
+[
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "NameStyle",
+    "type": "DataType"
+  },
+  {
+    "schema": "Person",
+    "name": "AdditionalContactInfoSchemaCollection",
+    "type": "XmlSchemaCollection"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntity",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "IndividualSurveySchemaCollection",
+    "type": "XmlSchemaCollection"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Schema"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  }
+]

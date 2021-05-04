@@ -1,0 +1,5 @@
+{
+  "schema": "Person",
+  "name": "StateProvince",
+  "type": "Table"
+}

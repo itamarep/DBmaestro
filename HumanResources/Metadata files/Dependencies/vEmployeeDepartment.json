@@ -1,0 +1,32 @@
+[
+  {
+    "schema": "HumanResources",
+    "name": "Department",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "EmployeeDepartmentHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "HumanResources",
+    "type": "Schema"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "vEmployeeDepartment",
+    "type": "View"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "schema": "Production",
+  "name": "BillOfMaterials",
+  "type": "Table"
+}

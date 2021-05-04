@@ -1,0 +1,302 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AccountNumber",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "OrderNumber",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "ufnGetAccountingEndDate",
+    "type": "ScalarFunction"
+  },
+  {
+    "schema": "dbo",
+    "name": "ufnGetAccountingStartDate",
+    "type": "ScalarFunction"
+  },
+  {
+    "schema": "dbo",
+    "name": "ufnLeadingZeros",
+    "type": "ScalarFunction"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspLogError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspPrintError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Address",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "AddressType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntity",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityContact",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "ContactType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "CountryRegion",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "EmailAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PersonPhone",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PhoneNumberType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "StateProvince",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "TransactionHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "ShipMethod",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "2002",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "2003",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "2004",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "CountryRegionCurrency",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "CreditCard",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Currency",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "CurrencyRate",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Customer",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "FullName",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "JobTitle",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "PersonCreditCard",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesOrderDetail",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesOrderHeader",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesOrderHeaderSalesReason",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPerson",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPersonID",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesPersonQuotaHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesReason",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTaxRate",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Column"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritory",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SalesTerritoryHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "ShoppingCartItem",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SpecialOffer",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "SpecialOfferProduct",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Store",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "StoreSurveySchemaCollection",
+    "type": "XmlSchemaCollection"
+  },
+  {
+    "schema": "Sales",
+    "name": "vIndividualCustomer",
+    "type": "View"
+  },
+  {
+    "schema": "Sales",
+    "name": "vPersonDemographics",
+    "type": "View"
+  },
+  {
+    "schema": "Sales",
+    "name": "vSalesPerson",
+    "type": "View"
+  },
+  {
+    "schema": "Sales",
+    "name": "vSalesPersonSalesByFiscalYears",
+    "type": "View"
+  },
+  {
+    "schema": "Sales",
+    "name": "vStoreWithAddresses",
+    "type": "View"
+  },
+  {
+    "schema": "Sales",
+    "name": "vStoreWithContacts",
+    "type": "View"
+  },
+  {
+    "schema": "Sales",
+    "name": "vStoreWithDemographics",
+    "type": "View"
+  }
+]

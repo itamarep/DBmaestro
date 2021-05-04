@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "Person",
+    "name": "BusinessEntity",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Schema"
+  }
+]

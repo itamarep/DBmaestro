@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Production",
+    "type": "Schema"
+  },
+  {
+    "schema": "Production",
+    "name": "TransactionHistory",
+    "type": "Table"
+  }
+]

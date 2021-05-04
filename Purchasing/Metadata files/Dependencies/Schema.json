@@ -1,0 +1,147 @@
+[
+  {
+    "schema": "dbo",
+    "name": "AccountNumber",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Flag",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "Name",
+    "type": "DataType"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspLogError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "dbo",
+    "name": "uspPrintError",
+    "type": "Procedure"
+  },
+  {
+    "schema": "HumanResources",
+    "name": "Employee",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Address",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "AddressType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntity",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "BusinessEntityContact",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "ContactType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "CountryRegion",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "EmailAddress",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PersonPhone",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "PhoneNumberType",
+    "type": "Table"
+  },
+  {
+    "schema": "Person",
+    "name": "StateProvince",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "Product",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "TransactionHistory",
+    "type": "Table"
+  },
+  {
+    "schema": "Production",
+    "name": "UnitMeasure",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "ProductVendor",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "PurchaseOrderDetail",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "PurchaseOrderHeader",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Purchasing",
+    "type": "Schema"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "ShipMethod",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "Vendor",
+    "type": "Table"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "vVendorWithAddresses",
+    "type": "View"
+  },
+  {
+    "schema": "Purchasing",
+    "name": "vVendorWithContacts",
+    "type": "View"
+  }
+]

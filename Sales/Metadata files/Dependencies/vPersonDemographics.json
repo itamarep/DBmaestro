@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "Person",
+    "name": "Person",
+    "type": "Table"
+  },
+  {
+    "schema": "Sales",
+    "name": "Sales",
+    "type": "Schema"
+  },
+  {
+    "schema": "Sales",
+    "name": "vPersonDemographics",
+    "type": "View"
+  }
+]
