@@ -1,5 +1,0 @@
-{
-  "schema": "HumanResources",
-  "name": "uspUpdateEmployeeHireInfo",
-  "type": "Procedure"
-}
