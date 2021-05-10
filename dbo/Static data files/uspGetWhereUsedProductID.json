@@ -1,5 +1,0 @@
-{
-  "schema": "dbo",
-  "name": "uspGetWhereUsedProductID",
-  "type": "Procedure"
-}
