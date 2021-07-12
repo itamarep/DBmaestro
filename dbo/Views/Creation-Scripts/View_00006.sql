@@ -1,3 +1,0 @@
-CREATE VIEW [dbo].[View_00006] AS SELECT c1, c2 FROM dbo.Table_00006;
-GO
-
